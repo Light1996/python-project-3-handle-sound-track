@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Home</title>
+    <!-- Font Icon -->
+    <link rel="stylesheet" href="static/fonts/material-icon/css/material-design-iconic-font.min.css">
+    <!-- Main css -->
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div class="main">
+
+        <!-- Sign up form -->
+        <section class="signup">
+
+            <div class="container">
+                <br><br>
+                <a class="btn btn-primary" href="/logout">Logout</a><br><br>
+                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#numone">Upload Data</button>
+                <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#numtwo">Dashboard</button>
+                <br><br>
+                <div id="numone" class="collapse">
+                    <form method="POST" action="/" enctype="multipart/form-data">
+                          <p><input type="file" name="file"></p>
+                          <p><input type="submit" value="Submit"></p>
+                            {% if check == 1 %}
+                            <div class="container">
+                                  <table class="table">
+                                    <thead>
+                                      <tr>
+                                      </tr>
+                                    </thead>
+                                    <tbody>
+                                     {% for i in temp_data %}
+                                      <tr>
+                                        <td>{{i[0]}}</td>
+                                        <td>{{i[1]}}</td>
+                                        <td>{{i[2]}}</td>
+                                        <td>{{i[3]}}</td>
+                                      </tr>
+                                     {% endfor %}
+                                    </tbody>
+                                  </table>
+                                </div>
+                            {% endif %}
+                        </form>
+                </div>
+
+
+                <div id="numtwo" class="collapse">
+                    <div class="container">
+                                  <table class="table" style="width:77%;">
+                                    <thead>
+                                      <tr>
+                                      </tr>
+                                    </thead>
+                                    <tbody>
+                                     {% for i in trackes_record %}
+                                      <tr>
+                                        <td>{{i.name}}</td>
+                                        <td>{{i.year}}</td>
+                                        <td>{{i.artist}}</td>
+                                        <td>{{i.composer}}</td>
+                                      </tr>
+                                     {% endfor %}
+                                    </tbody>
+                                  </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+    </div>
+
+    <!-- JS -->
+    <script src="static/vendor/jquery/jquery.min.js"></script>
+    <script src="static/js/main.js"></script>
+</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</html>
+
+<!--{{url_for('static', filename='')}}-->

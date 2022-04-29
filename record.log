@@ -1,0 +1,151 @@
+2022-04-29 23:32:37,341 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-04-29 23:32:37,344 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:32:39,458 WARNING werkzeug MainThread :  * Debugger is active!
+2022-04-29 23:32:39,461 INFO werkzeug MainThread :  * Debugger PIN: 936-271-187
+2022-04-29 23:32:41,435 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:32:41] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2022-04-29 23:32:41,624 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:32:41] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2022-04-29 23:32:41,647 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:32:41] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2022-04-29 23:32:41,666 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:32:41] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2022-04-29 23:32:41,712 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:32:41] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-04-29 23:34:18,032 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\HP\\Desktop\\Fiver\\America_Client\\Noor\\project-3\\app\\__init__.py', reloading
+2022-04-29 23:34:18,342 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:34:43,821 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:34:45,421 WARNING werkzeug MainThread :  * Debugger is active!
+2022-04-29 23:34:45,424 INFO werkzeug MainThread :  * Debugger PIN: 936-271-187
+2022-04-29 23:34:51,274 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:34:51] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2022-04-29 23:34:51,420 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:34:51] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:34:51,425 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:34:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-04-29 23:34:51,459 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:34:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-04-29 23:34:51,477 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:34:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-04-29 23:35:10,838 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\HP\\Desktop\\Fiver\\America_Client\\Noor\\project-3\\app\\users\\users_blueprint.py', reloading
+2022-04-29 23:35:11,014 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:35:13,049 WARNING werkzeug MainThread :  * Debugger is active!
+2022-04-29 23:35:13,053 INFO werkzeug MainThread :  * Debugger PIN: 936-271-187
+2022-04-29 23:35:48,737 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\HP\\Desktop\\Fiver\\America_Client\\Noor\\project-3\\app\\users\\users_blueprint.py', reloading
+2022-04-29 23:35:49,139 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:37:12,947 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-04-29 23:37:12,949 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:37:14,399 WARNING werkzeug MainThread :  * Debugger is active!
+2022-04-29 23:37:14,402 INFO werkzeug MainThread :  * Debugger PIN: 936-271-187
+2022-04-29 23:37:17,215 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:17] "GET / HTTP/1.1" 200 -
+2022-04-29 23:37:17,497 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:37:17,507 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:17] "[36mGET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 304 -
+2022-04-29 23:37:17,515 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:17] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:37:17,519 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:17] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:37:19,851 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:19] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-29 23:37:19,865 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:19] "GET /signin HTTP/1.1" 200 -
+2022-04-29 23:37:19,900 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:19] "[33mGET /fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 404 -
+2022-04-29 23:37:19,909 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:37:19,920 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:19] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:37:19,929 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:37:19,944 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:19] "[36mGET /static/images/signin-image.jpg HTTP/1.1[0m" 304 -
+2022-04-29 23:37:19,976 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:19] "[36mGET /static/fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1[0m" 304 -
+2022-04-29 23:37:19,981 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:19] "[36mGET /static/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1[0m" 304 -
+2022-04-29 23:37:19,985 INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:19] "[36mGET /static/fonts/poppins/poppins-v5-latin-italic.woff2 HTTP/1.1[0m" 304 -
+2022-04-29 23:37:24,349 INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:24] "GET /signup HTTP/1.1" 200 -
+2022-04-29 23:37:24,375 INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:24] "[36mGET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 304 -
+2022-04-29 23:37:24,376 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:37:24,397 INFO werkzeug Thread-15 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:24] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:37:24,399 INFO werkzeug Thread-16 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:24] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:37:24,401 INFO werkzeug Thread-17 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:24] "[36mGET /static/images/signup-image.jpg HTTP/1.1[0m" 304 -
+2022-04-29 23:37:24,411 INFO werkzeug Thread-18 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:24] "[36mGET /static/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0 HTTP/1.1[0m" 304 -
+2022-04-29 23:37:40,683 INFO werkzeug Thread-19 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:40] "[32mPOST /signup HTTP/1.1[0m" 302 -
+2022-04-29 23:37:40,687 INFO werkzeug Thread-19 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:40] "GET /signin HTTP/1.1" 200 -
+2022-04-29 23:37:40,710 INFO werkzeug Thread-19 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:40] "[33mGET /fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 404 -
+2022-04-29 23:37:40,719 INFO werkzeug Thread-20 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:37:40,721 INFO werkzeug Thread-19 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:40] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:37:40,762 INFO werkzeug Thread-21 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:40] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:37:40,764 INFO werkzeug Thread-22 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:40] "[36mGET /static/images/signin-image.jpg HTTP/1.1[0m" 304 -
+2022-04-29 23:37:53,105 INFO werkzeug Thread-23 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:53] "[32mPOST /signin HTTP/1.1[0m" 302 -
+2022-04-29 23:37:53,115 INFO werkzeug Thread-23 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:53] "GET / HTTP/1.1" 200 -
+2022-04-29 23:37:53,139 INFO werkzeug Thread-23 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:53] "[36mGET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 304 -
+2022-04-29 23:37:53,154 INFO werkzeug Thread-24 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:37:53,157 INFO werkzeug Thread-26 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:53] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:37:53,157 INFO werkzeug Thread-25 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:37:53] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:38:10,289 INFO werkzeug Thread-27 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:38:10] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2022-04-29 23:38:10,295 ERROR werkzeug Thread-27 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:38:10] code 400, message Bad request syntax ('------WebKitFormBoundaryCbSxra2wCptRDaYA')
+2022-04-29 23:38:10,297 INFO werkzeug Thread-27 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:38:10] "[35m[1mNone / HTTP/0.9[0m" HTTPStatus.BAD_REQUEST -
+2022-04-29 23:38:10,314 INFO werkzeug Thread-28 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:38:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:38:10,322 INFO werkzeug Thread-29 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:38:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-04-29 23:38:10,392 INFO werkzeug Thread-30 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:38:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-04-29 23:38:10,419 INFO werkzeug Thread-31 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:38:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-04-29 23:39:08,577 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\HP\\Desktop\\Fiver\\America_Client\\Noor\\project-3\\app\\users\\users_blueprint.py', reloading
+2022-04-29 23:39:09,286 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:39:11,305 WARNING werkzeug MainThread :  * Debugger is active!
+2022-04-29 23:39:11,308 INFO werkzeug MainThread :  * Debugger PIN: 936-271-187
+2022-04-29 23:39:33,048 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-04-29 23:39:33,054 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:39:34,613 WARNING werkzeug MainThread :  * Debugger is active!
+2022-04-29 23:39:34,616 INFO werkzeug MainThread :  * Debugger PIN: 936-271-187
+2022-04-29 23:39:38,996 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:39:38] "GET / HTTP/1.1" 200 -
+2022-04-29 23:39:39,239 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:39:39] "[36mGET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 304 -
+2022-04-29 23:39:39,302 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:39:39] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:39:39,308 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:39:39] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:39:39,338 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:39:39] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:39:47,469 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:39:47] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2022-04-29 23:39:47,507 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:39:47,508 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-04-29 23:39:47,546 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-04-29 23:39:47,573 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:39:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-04-29 23:40:23,265 INFO werkzeug MainThread :  * Detected change in 'C:\\Users\\HP\\Desktop\\Fiver\\America_Client\\Noor\\project-3\\app\\users\\users_blueprint.py', reloading
+2022-04-29 23:40:23,423 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:40:25,058 WARNING werkzeug MainThread :  * Debugger is active!
+2022-04-29 23:40:25,061 INFO werkzeug MainThread :  * Debugger PIN: 936-271-187
+2022-04-29 23:40:39,329 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-04-29 23:40:39,332 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:40:40,812 WARNING werkzeug MainThread :  * Debugger is active!
+2022-04-29 23:40:40,814 INFO werkzeug MainThread :  * Debugger PIN: 936-271-187
+2022-04-29 23:40:44,219 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:40:44] "GET / HTTP/1.1" 200 -
+2022-04-29 23:40:44,466 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:40:44] "[36mGET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 304 -
+2022-04-29 23:40:44,481 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:40:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:40:44,484 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:40:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:40:44,489 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:40:44] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:40:51,133 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:40:51] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2022-04-29 23:40:51,155 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:40:51] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:40:51,160 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:40:51] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2022-04-29 23:40:51,192 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:40:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-04-29 23:40:51,213 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:40:51] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2022-04-29 23:42:14,708 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-04-29 23:42:14,712 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:42:16,614 WARNING werkzeug MainThread :  * Debugger is active!
+2022-04-29 23:42:16,617 INFO werkzeug MainThread :  * Debugger PIN: 936-271-187
+2022-04-29 23:42:17,938 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:17] "GET / HTTP/1.1" 200 -
+2022-04-29 23:42:18,163 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:42:18,187 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:18] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:42:18,204 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:18] "[36mGET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 304 -
+2022-04-29 23:42:18,214 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:18] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:42:36,113 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:36] "POST / HTTP/1.1" 200 -
+2022-04-29 23:42:36,155 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:36] "[36mGET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 304 -
+2022-04-29 23:42:36,179 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:42:36,182 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:36] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:42:36,185 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:36] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:42:45,781 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:45] "GET / HTTP/1.1" 200 -
+2022-04-29 23:42:45,806 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:45] "[36mGET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 304 -
+2022-04-29 23:42:45,822 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:42:45,822 INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:45] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:42:45,824 INFO werkzeug Thread-13 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:42:50,107 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:50] "[32mGET /logout HTTP/1.1[0m" 302 -
+2022-04-29 23:42:50,118 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:50] "GET /signin HTTP/1.1" 200 -
+2022-04-29 23:42:50,140 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:50] "[33mGET /fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 404 -
+2022-04-29 23:42:50,145 INFO werkzeug Thread-15 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:42:50,153 INFO werkzeug Thread-14 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:50] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:42:50,204 INFO werkzeug Thread-16 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:50] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:42:50,205 INFO werkzeug Thread-17 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:50] "[36mGET /static/images/signin-image.jpg HTTP/1.1[0m" 304 -
+2022-04-29 23:42:50,243 INFO werkzeug Thread-18 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:50] "[36mGET /static/fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1[0m" 304 -
+2022-04-29 23:42:50,247 INFO werkzeug Thread-19 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:50] "[36mGET /static/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1[0m" 304 -
+2022-04-29 23:42:50,247 INFO werkzeug Thread-20 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:42:50] "[36mGET /static/fonts/poppins/poppins-v5-latin-italic.woff2 HTTP/1.1[0m" 304 -
+2022-04-29 23:51:51,582 INFO werkzeug MainThread :  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-04-29 23:51:51,586 INFO werkzeug MainThread :  * Restarting with stat
+2022-04-29 23:51:53,277 WARNING werkzeug MainThread :  * Debugger is active!
+2022-04-29 23:51:53,279 INFO werkzeug MainThread :  * Debugger PIN: 143-716-102
+2022-04-29 23:52:04,634 INFO werkzeug Thread-2 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:52:04] "[32mGET / HTTP/1.1[0m" 302 -
+2022-04-29 23:52:04,672 INFO werkzeug Thread-3 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:52:04] "GET /signin HTTP/1.1" 200 -
+2022-04-29 23:52:04,726 INFO werkzeug Thread-4 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:52:04] "[33mGET /fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 404 -
+2022-04-29 23:52:04,909 INFO werkzeug Thread-5 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:52:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2022-04-29 23:52:04,913 INFO werkzeug Thread-8 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:52:04] "[36mGET /static/images/signin-image.jpg HTTP/1.1[0m" 304 -
+2022-04-29 23:52:05,020 INFO werkzeug Thread-6 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:52:05] "[36mGET /static/vendor/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+2022-04-29 23:52:05,032 INFO werkzeug Thread-7 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:52:05] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2022-04-29 23:52:05,067 INFO werkzeug Thread-9 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:52:05] "[36mGET /static/fonts/poppins/poppins-v5-latin-regular.woff2 HTTP/1.1[0m" 304 -
+2022-04-29 23:52:05,071 INFO werkzeug Thread-10 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:52:05] "[36mGET /static/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1[0m" 304 -
+2022-04-29 23:52:05,075 INFO werkzeug Thread-11 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:52:05] "[36mGET /static/fonts/poppins/poppins-v5-latin-italic.woff2 HTTP/1.1[0m" 304 -
+2022-04-29 23:52:05,135 INFO werkzeug Thread-12 (process_request_thread) : 127.0.0.1 - - [29/Apr/2022 23:52:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
